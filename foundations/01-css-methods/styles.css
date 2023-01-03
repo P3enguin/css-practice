@@ -1,9 +1,9 @@
 /* styles.css */
 
-
-p {
-    color :white;
-    background-color: green;
-    font-size:  18px;
-
+div {
+    color: black;
+    background-color: red;
+    font-size:32px;
+    text-align: center;
+    font-weight: bold;
 }
